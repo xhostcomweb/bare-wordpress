@@ -1,6 +1,6 @@
 # Bare Wordpress
 
-Starter theme for Wordpress based on Naked Wordpress (no framework.)
+Starter theme for Wordpress (no framework.)
 
 ## Quick Start
 
@@ -10,7 +10,7 @@ Useful quick start parent theme project.
 
 ### Author
 
-P A McGowan
+Paul Anthony McGowan
 
 https://xhostcom.com
 
